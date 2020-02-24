@@ -1,0 +1,15 @@
+testing\pageobjects\BitnamiObjects.class
+InspiredTesting\AppiumDriver.class
+InspiredTesting\ExcelReader.class
+testing\pageobjects\googlePageObjects.class
+testing\actions\EribankLoginActions.class
+entities\DataColumn.class
+InspiredTesting\SeleniumDriver.class
+entities\DataRow.class
+testing\actions\googleHomeActions.class
+InspiredTesting\SeleniumDriver$1.class
+testing\pageobjects\EribankObjects.class
+core\BaseClass.class
+testing\actions\BitnamiActions.class
+InspiredTesting\SeleniumDriver$BrowserType.class
+InspiredTesting\Reporting.class
